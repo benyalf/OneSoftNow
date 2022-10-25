@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 358.24 143.37">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        font-family: HACKED, HACKED;
+      }
+
+      .cls-2, .cls-5 {
+        font-size: 60px;
+        letter-spacing: -.11em;
+      }
+
+      .cls-2, .cls-8 {
+        fill: #663bce;
+      }
+
+      .cls-9 {
+        fill: #1d1d1b;
+      }
+
+      .cls-9, .cls-8 {
+        font-size: 54.57px;
+      }
+
+      .cls-3 {
+        letter-spacing: .39em;
+      }
+
+      .cls-4 {
+        font-size: 136px;
+        letter-spacing: .08em;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #f4d500;
+      }
+
+      .cls-10 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        fill: #9c1915;
+      }
+
+      .cls-6 {
+        letter-spacing: .38em;
+      }
+
+      .cls-7 {
+        font-size: 109px;
+        letter-spacing: .08em;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <text class="cls-8" transform="translate(32.78 92.78)"><tspan class="cls-1" x="0" y="0">OnE SOFT </tspan><tspan class="cls-6" x="208.29" y="0">NW</tspan><tspan class="cls-10" x="315.47" y="0"> </tspan></text>
+      <text class="cls-2" transform="translate(263.03 92.49)"><tspan x="0" y="0">O</tspan></text>
+      <g>
+        <text class="cls-4" transform="translate(41.33 115.61)"><tspan x="0" y="0">1</tspan></text>
+        <text class="cls-7" transform="translate(65.95 103.76)"><tspan x="0" y="0">_</tspan></text>
+      </g>
+      <text class="cls-4" transform="translate(136.33 115.61)"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-4" transform="translate(249.33 115.61)"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-9" transform="translate(30.4 92.78)"><tspan class="cls-1" x="0" y="0">OnE SOFT </tspan><tspan class="cls-3" x="208.29" y="0">NW</tspan><tspan class="cls-10" x="317" y="0"> </tspan></text>
+      <text class="cls-5" transform="translate(262.03 92.49)"><tspan x="0" y="0">O</tspan></text>
+    </g>
+  </g>
+</svg>
